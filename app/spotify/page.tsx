@@ -12,7 +12,7 @@ export default function page() {
           <div className="w-full mx-auto md:w-3/4 h-full md:h-1/2 my-9 ">
             <iframe
               style={{ borderRadius: "12px" }}
-              src="https://open.spotify.com/embed/playlist/0hDSACfKCw5sL5waVpV2lg?utm_source=generator"
+              src="https://open.spotify.com/embed/playlist/6Bo3r5rWfEBdMXDdS7kNkS?utm_source=generator&theme=0"
               width="100%"
               height="400"
               allowFullScreen

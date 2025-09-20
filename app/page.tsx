@@ -29,13 +29,13 @@ function valentine() {
               <GiHeartNecklace size={"50"} />
 
               <h1 className="font-bold text-xl text-white mb-4 relative z-50">
-                Muze maaf karoge Nisha?
+                Do You love me Shikha?
               </h1>
 
               <p className="font-normal text-base text-slate-500 mb-4 relative z-50">
                
               </p>
-              <div className="flex gap-3 justify-between items-center">
+              <div className="flex gap-3 justify-centre items-center">
                 <div>
                   {" "}
                   <Button
@@ -45,7 +45,7 @@ function valentine() {
                     startContent={<HeartFilledIcon className="text-danger" />}
                     variant="flat"
                   >
-                    Yes I will
+                    Yes Mere Hot Saanp
                   </Button>
                 </div>
                 <div>
@@ -58,7 +58,7 @@ function valentine() {
                     }
                     variant="flat"
                   >
-                    No I won&apos;t
+                    Yes Absolutely
                   </Button>
                 </div>
               </div>
